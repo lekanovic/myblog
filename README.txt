@@ -16,3 +16,9 @@ hugo -D
 
 # Start server
 hugo server
+
+# Icons
+https://fontawesome.com/v4.7.0/icons/
+
+# Markdown doc
+https://daringfireball.net/projects/markdown/syntax
